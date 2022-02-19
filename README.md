@@ -31,4 +31,4 @@
 
 #### 使用方式
 
-在开发或发布后，在 dist 目录中会生成 index.es.js 文件， 在报表设计器中导入该文件即可，详细文档参见： [https://datahu.cn/docs/plugin.html](https://datahu.cn/docs/plugin.html)
+在开发或发布后，在 dist 目录中会生成 index.es.js 文件， 在报表设计器中导入该文件即可，详细文档参见： [https://datahu.cn/docs/guide/plugin.html](https://datahu.cn/docs/guide/plugin.html)
